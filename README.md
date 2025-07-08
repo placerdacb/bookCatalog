@@ -28,8 +28,8 @@ The relationship is **1 author can have many books (1:N)**.
 
 ---
 
-** 👩‍💻 Author **
-Priscilla Lacerda
+**👩‍💻 Author**
+> Priscilla Lacerda
 
 > Computer Programming Student – Seneca College Polytechnic
 > Toronto - Canada
