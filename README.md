@@ -28,9 +28,10 @@ The relationship is **1 author can have many books (1:N)**.
 
 ---
 
-**👩‍💻 Author**
-> Priscilla Lacerda
-
-> Computer Programming Student – Seneca College Polytechnic
-> Toronto - Canada
-> LinkedIn [www.linkedin.com/in/priscilla-lacerda]
+### **👩‍💻 Author** 
+Priscilla Lacerda 
+ 
+Computer Programming Student  
+Seneca College Polytechnic  
+Toronto - Canada  
+[LinkedIn](https://www.linkedin.com/in/priscilla-lacerda) 
