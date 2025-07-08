@@ -5,7 +5,7 @@ On the project, it was created tables with primary and foreign keys, views, proc
 
 ---
 
-## Estrutura do Banco
+## Data Structure
 The system has two main entities:
 
 - **Authors**: information about the authors (name, country)
